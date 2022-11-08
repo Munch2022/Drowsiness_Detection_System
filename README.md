@@ -20,9 +20,9 @@ The dataset consists of 2 folders. One with images which holds open eye and the 
 •	Machine Learning/Deep Learning Segment
 •	Deployment Segment
 
-Deep Learning Segment: Used MobileNet, a light weight transformer model; as my base model and then built my final model on top of it with a Dense layer. Achieved about 99% accuracy on training data and 100% on test data.
+👉 Deep Learning Segment: Used MobileNet, a light weight transformer model; as my base model and then built my final model on top of it with a Dense layer. Achieved about 99% accuracy on training data and 100% on test data.
 
-Deployment Segmment: The trained model is saved and loaded. Created the webapp using streamlit and using ngrok to host the model. ngrok will take the model from the local server and host it on to the web(public server). 
+👉 Deployment Segment: The trained model is saved and loaded. Created the webapp using streamlit and using ngrok to host the model. ngrok will take the model from the local server and host it on to the web(public server). 
 
 ### This is how the webapp looks like => 
 
